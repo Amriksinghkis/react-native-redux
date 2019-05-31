@@ -6,16 +6,18 @@ Everything that is important to understanding the redux setup / flow can be foun
 This example for store the places name using the redux. 
 Display list of places name and remove the place name one by one.
 
+
 *Installation*
 
 $ git clone https://github.com/Amriksinghkis/react-native-redux.git
 $ cd react-native-redux
 $ npm install
 
+
 *Development*
 
-// For IOS
+// For IOS-->
 react-native run-ios
 
-// For Android
+// For Android-->
 react-native run-android
