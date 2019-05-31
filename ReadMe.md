@@ -16,8 +16,7 @@ $ cd react-native-redux
 $ npm install
 
 
-## Development
-
+## Run app
 // For IOS-->
 react-native run-ios
 
